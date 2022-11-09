@@ -10,10 +10,10 @@
     "react-scripts": "^5.0.0"
   },
   "scripts": {
-    "start": "npm run react-scripts start",
-    "build": "BUILD_PATH=../server/public npm run react-scripts build",
-    "test": "npm run react-scripts test",
-    "eject": "npm run react-scripts eject"
+    "start": "npm run-react-scripts start",
+    "build": "BUILD_PATH=../server/public npm run-react-scripts build",
+    "test": "npm run-react-scripts test",
+    "eject": "npm run-react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
